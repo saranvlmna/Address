@@ -1,0 +1,77 @@
+        /* Style the container/contact section */
+        
+        .container {
+            border-radius: 5px;
+            background-color: #d8caca;
+            padding: 10px;
+        }
+        /* Style inputs */
+        
+        input[type=text],
+        select,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+        
+        input[type=e-mail],
+        select,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+        
+        input[type=date],
+        select,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+        
+        input[type=number],
+        select,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            margin-top: 6px;
+            margin-bottom: 16px;
+            resize: vertical;
+        }
+        /*submit,reset*/
+        
+        input[type=submit] {
+            background-color: #005e03;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            cursor: pointer;
+        }
+        
+        input[type=submit]:hover {
+            background-color: #00fc0d;
+        }
+        
+        input[type=reset] {
+            background-color: #000100;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            cursor: pointer;
+        }
+        
+        input[type=reset]:hover {
+            background-color: #f10028;
+        }
